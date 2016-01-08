@@ -1,9 +1,6 @@
 does it work?
 It seems it works.
-<<<<<<< HEAD
 How does it goes?
 some  changes  I am making.
-=======
 How does it go?
 Salman what's up? :D Varda
->>>>>>> 2997c30c2734bfbd3b6e5b912f608b9826bd03bc
